@@ -1,9 +1,9 @@
 <?php
-define('DB_HOST', 'sql307.infinityfree.com');
-define('DB_NAME', 'if0_42095865_urlshortener');
-define('DB_USER', 'if0_42095865');
-define('DB_PASS', 'Password');
-define('BREVO_API_KEY', 'API_KEY');
-define('BREVO_SENDER_EMAIL', 'gangardishabbir06@gmail.com');
-define('BREVO_SENDER_NAME',  'OTP from urlshort.kesug.com');
+define('DB_HOST', 'your-database-host.com');
+define('DB_NAME', 'your_database_name');
+define('DB_USER', 'your_database_user');
+define('DB_PASS', 'your_database_password');
+define('BREVO_API_KEY', 'your_brevo_api_key_here');
+define('BREVO_SENDER_EMAIL', 'your-email@example.com');
+define('BREVO_SENDER_NAME',  'Your App Name');
 ?>
