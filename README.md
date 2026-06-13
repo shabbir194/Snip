@@ -17,7 +17,7 @@ A URL shortener with click analytics built with PHP + MySQL.
 
 ## Setup
 1. Clone the repo
-2. Copy `config/database.php` replace Password and API_KEY with actual value
+2. Copy `config/database.php` replace Placeholder with actual value
 3. Fill in your DB credentials and Brevo API key
 4. Import the SQL tables from `database.sql`
 5. Upload to any PHP hosting
